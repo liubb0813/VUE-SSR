@@ -1,0 +1,5 @@
+[gerrit]
+host=gerrit.che800.cc
+port=29418
+project=BK-TDSP-FE
+defaultbranch=master

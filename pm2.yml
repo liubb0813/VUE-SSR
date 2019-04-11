@@ -1,0 +1,6 @@
+apps:
+  -script: ./server/server.js
+   name: VUE-THREE-SSR
+   env_production:
+    NODE_ENV: production
+    HOST: 
