@@ -20,7 +20,7 @@ export default class Ajax {
 
     let headers = {
       Accept: "application/json; charset=UTF-8",
-      Authorization: "Bearer V7hqHWPQPPV7UHPhq7UQVUU77cQWQVhU",
+      Authorization: "Bearer hUqUUHqkQkcPcqQPkhWHDDP47DkVW7V7",
       "x-request-id": "270d0510-5c29-11e9-9804-1348a174966d"
     };
 
