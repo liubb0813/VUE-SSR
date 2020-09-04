@@ -44,7 +44,7 @@
     "cross-env": "^5.2.0",
     "eslint": "^5.12.1",
     "eslint-plugin-vue": "^5.1.0",
-    "lodash.merge": "^4.6.1",
+    "lodash.merge": "^4.6.2",
     "memory-fs": "^0.4.1",
     "nodemon": "^1.18.10",
     "pug": "^2.0.3",
