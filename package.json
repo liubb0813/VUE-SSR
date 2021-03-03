@@ -47,7 +47,7 @@
     "lodash.merge": "^4.6.1",
     "memory-fs": "^0.4.1",
     "nodemon": "^1.18.10",
-    "pug": "^2.0.3",
+    "pug": "^3.0.1",
     "pug-plain-loader": "^1.0.0",
     "stylus": "^0.54.5",
     "stylus-loader": "^3.0.2",
