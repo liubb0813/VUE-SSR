@@ -23,7 +23,7 @@
     "koa-router": "^7.4.0",
     "koa-send": "^5.0.0",
     "koa-static": "^5.0.0",
-    "qs": "^6.7.0",
+    "qs": "^6.5.3",
     "throttle-debounce": "^2.1.0",
     "tiny-cookie": "^2.3.1",
     "uuid": "^3.3.2",
